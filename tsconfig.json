@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "@kanelloc/react-native-animated-header-scroll-view": ["./src/index"]
+      "@rayhk6/react-native-animated-header-scroll-view": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
