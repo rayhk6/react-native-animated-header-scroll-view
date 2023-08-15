@@ -1,5 +1,5 @@
 {
-  "name": "@kanelloc/react-native-animated-header-scroll-view",
+  "name": "@rayhk6/react-native-animated-header-scroll-view",
   "version": "0.12.0",
   "description": "React native animated header scroll view component",
   "main": "lib/commonjs/index",
